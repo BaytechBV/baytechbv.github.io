@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.baytechbv.onskelista",
+      "sha256_cert_fingerprints": ["54:29:29:CD:0C:80:71:1D:A0:94:A4:5C:C9:E3:1F:DC:FB:9B:42:C1:54:76:45:DA:09:44:8A:C6:92:63:A8:8F"]
+    }
+  }
+]
